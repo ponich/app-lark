@@ -1,4 +1,4 @@
-## Getresponse API Client
+## App Lark
 [![Packagist License](https://poser.pugx.org/ponich/app-lark/license.png)](http://choosealicense.com/licenses/mit/)
 [![Latest Stable Version](https://poser.pugx.org/ponich/app-lark/version.png)](https://packagist.org/packages/ponich/app-lark)
 [![Total Downloads](https://poser.pugx.org/ponich/app-lark/d/total.png)](https://packagist.org/packages/ponich/app-lark)

@@ -1,0 +1,34 @@
+{
+  "name": "ponich/app-lark",
+  "description": "Create HMVC sub application in Laravel",
+  "keywords": [
+    "laravel",
+    "hmvc",
+    "application"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Nikolay",
+      "email": "n.ponich@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0",
+    "illuminate/support": "5.5.x"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ponich\\AppLark\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Ponich\\AppLark\\ServiceProvider"
+      ]
+    }
+  }
+}

@@ -20,7 +20,7 @@ class MakeApp extends Command
     /**
      * @var string относительный путь к каталогу с шаблоном
      */
-    protected $templatePath = 'app/YouApp';
+    protected $templatePath = 'vendor/ponich/app-lark/src/YouApp';
 
     /**
      * @var string
